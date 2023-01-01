@@ -34,7 +34,7 @@ const Header = () => (
         </a>
       </li> */}
     </Div2>
-    <Div3>
+    <Div3 style={{marginRight:"1rem"}}>
       <SocialIcons target="_blank" href="https://github.com/rifat32">
         <AiFillGithub size="3rem" />
       </SocialIcons>

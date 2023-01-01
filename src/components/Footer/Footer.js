@@ -21,13 +21,13 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2023 <Link href="https://www.vipuljha.com"> RIFAT AL ASHWAD</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2023 <Link href="https://rifatalashwad.vercel.app"> RIFAT AL ASHWAD</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons target="_blank" href="https://github.com/rifat32">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons target="_blank" href="https://www.linkedin.com/in/rifat-al-ashwad-6724bb1b6/">
+          <SocialIcons target="_blank" href="https://www.linkedin.com/in/rifat-al-ashwad-6724bb1b6">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
           {/* <SocialIcons href="https://www.instagram.com/lordarcadius">
